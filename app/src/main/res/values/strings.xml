@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PassingData</string>
+    <string name="tittle">Holla Guys</string>
+    <string name="subTittle">Here you can calculate BMI Score</string>
+    <string name="enter_body_height">Enter Height</string>
+    <string name="enter_body_weigth">Enter Weight</string>
+    <string name="tv_instruction">Make sure fill in all the data and select the data delivery method</string>
+    <string name="send">Data sent with?</string>
+    <string name="age">Age</string>
+    <string name="calculate">Calculate</string>
+    <string-array name="list_passing">
+        <item>Intent</item>
+        <item>Bundle</item>
+        <item>Serializable</item>
+        <item>Parcelable</item>
+    </string-array>
+</resources>
